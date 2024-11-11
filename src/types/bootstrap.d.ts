@@ -1,0 +1,1 @@
+type Variant = "primary"| "secondary"| "secondary" | "success" |"danger"| "blue"
